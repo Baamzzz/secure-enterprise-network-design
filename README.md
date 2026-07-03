@@ -127,7 +127,8 @@ Core Switch:
 
 Distribution Switch:
 
-![RSTP Distribution](screenshots/09-rstp-distribution-switch.png)
+![RSTP Distribution](screenshots/09-RST
+P-distribution-switch.png)
 
 ---
 
@@ -141,7 +142,7 @@ Configured features include:
 - Maximum MAC addresses
 - Restrict violation mode
 
-![Port Security](screenshots/10-port-security.png)
+![Port Security](screenshots/10-Port-Security.png)
 
 ---
 
@@ -159,7 +160,7 @@ Security controls include:
 
 Access Control List:
 
-![ACL](screenshots/11-access-control-list.png)
+![ACL](screenshots/11-Access-Control-List.png)
 
 VTY Configuration:
 
