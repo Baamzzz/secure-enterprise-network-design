@@ -79,7 +79,7 @@ Separate VLANs were created for each department to reduce broadcast traffic and 
 
 802.1Q trunk links allow VLAN traffic to pass between switches while maintaining network segmentation.
 
-![Trunk Links](screenshots/03-Trunk-Links.png)
+![Trunk Links](screenshots/03-Trunk-links.png)
 
 ---
 
