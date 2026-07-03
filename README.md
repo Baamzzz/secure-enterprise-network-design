@@ -27,7 +27,7 @@ The solution includes:
 
 # Network Topology
 
-![Network Topology](screenshots/01-network-topology.png)
+![Network Topology](screenshots/01-Network-Topology.png)
 
 The network follows Cisco's three-layer hierarchical architecture consisting of:
 
