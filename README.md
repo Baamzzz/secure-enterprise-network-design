@@ -71,7 +71,7 @@ Separate VLANs were created for each department to reduce broadcast traffic and 
 |50|IT|
 |99|Management|
 
-![VLAN Configuration](screenshots/02-vlan-configuration.png)
+![VLAN Configuration](screenshots/02-Vlan-Configuration.png)
 
 ---
 
@@ -79,7 +79,7 @@ Separate VLANs were created for each department to reduce broadcast traffic and 
 
 802.1Q trunk links allow VLAN traffic to pass between switches while maintaining network segmentation.
 
-![Trunk Links](screenshots/03-trunk-links.png)
+![Trunk Links](screenshots/03-Trunk-Links.png)
 
 ---
 
@@ -91,7 +91,7 @@ LACP EtherChannel was configured between the Core and Distribution switches to p
 - Link redundancy
 - Fault tolerance
 
-![EtherChannel](screenshots/04-etherchannel-summary.png)
+![EtherChannel](screenshots/04-Etherchannel-Summary.png)
 
 ---
 
@@ -99,7 +99,7 @@ LACP EtherChannel was configured between the Core and Distribution switches to p
 
 Router-on-a-Stick was implemented using router subinterfaces to enable communication between VLANs.
 
-![Router Subinterfaces](screenshots/05-router-subinterfaces.png)
+![Router Subinterfaces](screenshots/05-Router-Subinterfaces.png)
 
 ---
 
@@ -109,7 +109,7 @@ DHCP pools were configured for each VLAN, allowing clients to automatically obta
 
 Router DHCP bindings:
 
-![DHCP Bindings](screenshots/06-dhcp-bindings.png)
+![DHCP Bindings](screenshots/06-DHCP-Bindings.png)
 
 Client validation:
 
@@ -123,12 +123,11 @@ Rapid PVST+ was configured across the switching infrastructure to prevent switch
 
 Core Switch:
 
-![RSTP Core](screenshots/08-rstp-core-switch.png)
+![RSTP Core](screenshots/08-RSTP-Core-Switch.png)
 
 Distribution Switch:
 
-![RSTP Distribution](screenshots/09-RST
-P-distribution-switch.png)
+![RSTP Distribution](screenshots/09-RSTP-Distribution-Switch.png)
 
 ---
 
